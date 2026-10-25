@@ -72,36 +72,10 @@ I'm João, a Software Developer passionate about building software, exploring ne
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <h3>☕ Sipper</h3>
-      <p>A Python desktop application for analyzing PCAP files, with a modern Qt-based interface, automated diagnostics, and report generation.</p>
-      <a href="https://github.com/xBridge1/sipper"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Sipper repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🧟 Last Days</h3>
-      <p>A narrative-driven zombie survival game featuring character progression, interactive systems, and player decisions.</p>
-      <a href="https://github.com/xBridge1/last-days"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Last Days repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🕹️ dE_zOnE</h3>
-      <p>A retro gaming website featuring classic Flash games and PlayStation 1 and Game Boy Advance emulators.</p>
-      <a href="https://site-games-two.vercel.app/"><img src="https://img.shields.io/badge/Visit_Website-2D333B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Visit dE_zOnE" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🛠️ Steam Workshop Mod</h3>
-      <p>A custom Source Engine mod showcasing game modding, 3D assets, and gameplay customization.</p>
-      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3659017509"><img src="https://img.shields.io/badge/View_on_Steam-2D333B?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="View Steam Workshop mod" /></a>
-    </td>
-  </tr>
-</table>
+- [![sipper](https://img.shields.io/badge/sipper-xBridge1-blue?logo=github)](https://github.com/xBridge1/sipper)
+- [![last-days](https://img.shields.io/badge/last--days-xBridge1-blue?logo=github)](https://github.com/xBridge1/last-days)
+- [![dE_zOnE](https://img.shields.io/badge/dE__zOnE-site-blue?logo=vercel)](https://site-games-two.vercel.app/)
+- [![Steam Workshop Mod](https://img.shields.io/badge/Steam_Workshop-mod-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3659017509)
 
 ---
 
